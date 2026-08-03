@@ -41,4 +41,14 @@ TBA
 
 ## Requirements for CG-MD portion of the NT3D-G4s pipeline
 
-- TBA
+- Python v3.10 (conda-forge + Omnia channels)
+- cudatoolkit v11.7
+- Openmm v7.7.0
+- Openmm-plumed v1.0
+- pdbfixer v1.8.1
+- Numpy v1.26.4
+- Pandas v1.4.2
+- Matplotlib v3.9.4
+- Scipy v1.13.1
+- boto3 v1.26.13
+- Open3SPN2 v0.3.3+7.ga3c96c2.dirty
